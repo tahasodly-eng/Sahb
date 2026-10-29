@@ -4,8 +4,8 @@
 تطوير: <b>طه مصطفى النفاتي</b> (Taha Mustafa Al-Nifati)</p>
 
 <p align="center">
-<a href="https://github.com/tahasodly-eng/Sahb/releases/latest/download/Sahb.apk"><b>⬇ تنزيل لأندرويد (APK)</b></a> ·
-<a href="https://github.com/tahasodly-eng/Sahb/releases/latest/download/Setup_Sahb.exe"><b>⬇ تنزيل لويندوز</b></a> ·
+<a href="https://github.com/tahasodly-eng/Sahb/raw/main/downloads/Sahb.apk"><b>⬇ تنزيل لأندرويد (APK)</b></a> ·
+<a href="https://github.com/tahasodly-eng/Sahb/raw/main/downloads/Setup_Sahb.exe"><b>⬇ تنزيل لويندوز</b></a> ·
 <a href="https://tahasodly-eng.github.io/Sahb/">الموقع</a>
 </p>
 
